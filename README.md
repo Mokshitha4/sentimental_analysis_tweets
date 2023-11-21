@@ -1,6 +1,6 @@
 # sentimental_analysis_tweets
 
-Implementa􀆟on of text classifica􀆟on system by applying ML algorithms with different encoding
+Implementation of text classification system by applying ML algorithms with different encoding
 techniques
 1. ML Algorithms: Naïve Bayes,KNN,SVM and Random Forest
 2. Encoding Techniques:BOW,Bag of n grams,TF-IDF,Word embeddings using GENSIM,SPACY and
